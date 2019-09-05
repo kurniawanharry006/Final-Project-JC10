@@ -1,0 +1,18 @@
+.btn-login {
+    
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    color: #54696E;
+}
+
+.btn-login :hover {
+  cursor: pointer;
+  
+}
+
+.nav {
+  background-color: #54696E;
+  color: #fff;
+}
